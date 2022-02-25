@@ -1,0 +1,492 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief memento to the present unparliamentary juncto touching their present intentions and proceedings to depose and execute, Charles Stuart, their lawful King / by William Prynne Esquire ...</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56141</idno>
+            <idno type="STC">Wing P3911</idno>
+            <idno type="STC">ESTC R2940</idno>
+            <idno type="EEBO-CITATION">12244642</idno>
+            <idno type="OCLC">ocm 12244642</idno>
+            <idno type="VID">56890</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56141)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56890)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 875:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief memento to the present unparliamentary juncto touching their present intentions and proceedings to depose and execute, Charles Stuart, their lawful King / by William Prynne Esquire ...</title>
+                  <author>Prynne, William, 1600-1669.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56890:1"/>
+            <pb facs="tcp:56890:1" rendition="simple:additions"/>
+            <p>A BRIEF MEMENTO To the preſent UNPARLIAMENTARY JUNCTO, Touching their preſent intentions and Proceedings to <hi>Depoſe</hi> and
+<hi>Execute, CHARLES STUART</hi> their lawful KING.</p>
+            <p>By WILLIAM PRYNNE Eſquire: <hi>a Member of the Houſe of Commons,</hi> and <hi>Priſoner</hi> under the <hi>Armies Ty<g ref="char:EOLhyphen"/>ranny:</hi> who it ſeems, have <hi>leavyed Warre</hi> againſt the Houſes of
+<hi>Parliament,</hi> their <hi>quondam Maſters;</hi> whoſe <hi>Members</hi> they now forcibly take and detain <hi>Captives,</hi> during their <hi>lawleſs Pleaſures</hi>
+            </p>
+            <q>
+               <bibl>Proverbs 24.21,22.</bibl>
+               <p>
+                  <hi>My Son, Fear thou the Lord and the King, and meddle not with thoſe who are given to Change: for their calamity ſhall</hi> RISE SUDDENLY,
+<hi>and who knoweth the ruin of them both?</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Gal. 1.10.</bibl>
+               <p>
+                  <hi>If I yet pleaſed men, I ſhould not be the Servant of Chriſt.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed <hi>Anno Dom.</hi> 1649.</p>
+         </div>
+         <div type="ordinance">
+            <pb facs="tcp:56890:2"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Veneris</hi> 20. Auguſti,
+1647.</date>
+               </dateline>
+            </opener>
+            <head type="sub">An Ordinance for declaring all Votes, Orders, and Ordinances paſſed in one or both Houſes, ſince the force on both Houſes, <hi>July</hi> 26. until the ſixth of this preſent
+<hi>Auguſt,</hi> 1647. to be null and void.</head>
+            <p>WHereas there was a viſible, horrid, inſolent, and actual force upon the Houſes of Parliament, on <hi>Monday</hi> the 26 of
+<hi>July</hi> laſt, whereupon the Speakers, and many Mem<g ref="char:EOLhyphen"/>bers of both Houſes of Parliament, were
+<note n="*" place="margin">And yet ne<g ref="char:EOLunhyphen"/>ver a Member forcibly im<g ref="char:EOLhyphen"/>priſoned or ſe<g ref="char:EOLhyphen"/>cluded the Houſe, as a<g ref="char:EOLhyphen"/>bove 200. are now by the Army.</note> forced to abſent themſelves from the ſervice of the Parliament; and whereas thoſe Members of the Houſe could not return to ſit in ſafety, before <hi>Fryday</hi> the ſixth of <hi>Auguſt:</hi> It is therefore declared by the Lords and Commons in Par<g ref="char:EOLhyphen"/>liament aſſembled, that the Ordinance of <hi>Monday</hi> the ſaid 26. <hi>July,</hi> for the repealing and making void of the Ordinance of the 23. of the ſaid
+<hi>July,</hi> for the ſetling of the <hi>Militia</hi> of the City of
+<hi>London,</hi> being gained by force and violence; And all Votes, Orders, Ordinances, paſſed in either or both Houſes of Parliament, ſince the ſaid Ordinance of the 26 of <hi>July,</hi> to the ſaid ſixt of
+<hi>Auguſt,</hi> are null and void, and were ſo at the making thereof, and are hereby declared ſo to be, the Parliament being under a force, and not free. Provided alwaies, and be it Ordained, that no perſon or perſons ſhall be impeached or puniſhed for his or their actions by, or upon, or according to the aforeſaid Votes, Orders, or Ordinances, unleſs he or they ſhall be found guilty of con<g ref="char:EOLhyphen"/>triving, acting, or abetting the aforeſaid viſible and actual force, or being preſent at, or knowing of the ſaid force, did afterwards act upon the Votes ſo forced; or were guilty of entring into, or promoting the late Ingagement for bringing the King to the City, upon the terms and conditions expreſſed in his Majeſties Letter of the 12. of
+<hi>May</hi> laſt.</p>
+            <closer>
+               <signed>John Brown Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="memento">
+            <pb n="3" facs="tcp:56890:2"/>
+            <head>A brief <hi>Memento</hi> to the preſent Vn<g ref="char:EOLhyphen"/>parliamentary
+<hi>Juncto,</hi> touching their preſent in<g ref="char:EOLhyphen"/>tentions and Proceedings to
+<hi>depoſe</hi> and <hi>Execute</hi> CHARLS STUART, their Lawfull King of ENGLAND, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>IT is the obſervation of King <hi>Solomon, Prov.</hi> 25.11.
+<hi>That</hi> is <hi>word ſpoken in due ſeaſon, is like Apples of gold in pictures of ſilver.</hi> And ſeeing I (and <hi>above two hundred Members more</hi>) being forcibly ſecluded from you by the <hi>Officers</hi> of the
+<hi>Armies</hi> unparalell'd violence upon our Perſons, and the Houſe, cannot ſpeak my mind freely to you, <hi>in,</hi> or <hi>as a free and legal Houſe</hi> of <hi>Commons,</hi> I held it my duty, <hi>freely</hi> to write my <hi>thoughts</hi> un<g ref="char:EOLhyphen"/>to you, onely as <hi>private Perſons,</hi> ſitting under an armed, horrid, viſible <hi>force,</hi> conſulting in the
+<hi>Houſe,</hi> without your <hi>Fellow Mem<g ref="char:EOLhyphen"/>bers</hi> advice or concurrence, about the ſpeedy depoſing and execu<g ref="char:EOLhyphen"/>ting of KING CHARLS, your <hi>lawfull Soveraign,</hi> onely to pleaſe the <hi>General, Officers,</hi> and <hi>Grand Councel of the Army,</hi> (who have unjuſtly uſurped to them <hi>the Supreme Authority both over the King and Parliament</hi>) or rather of the
+<hi>Jeſuits</hi> and <hi>Popiſh Prieſts</hi> a<g ref="char:EOLhyphen"/>mong or near them, by whoſe <hi>Counſels</hi> they and you are now wholly ſwayed, and whoſe
+<hi>trayterous deſigns</hi> you <hi>really execute</hi> in moſt of your late <hi>Votes</hi> and <hi>Actings.</hi>
+            </p>
+            <p>I have onely a few words and Conſiderations to impart unto you:
+<hi>Dictum ſapienti ſat eſt.</hi>
+            </p>
+            <p>Firſt, I ſhall mind you, that by the
+<note n="a" place="margin">Cook 3. Inſtitut. c. 1. p. 5, 6. 12, 13.
+7 Reports, Calvius Caſe, 10, 11. Stanfords Pleas of the Crown, l.
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> c.
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note> 
+               <hi>Common Law of the Realm,</hi> 
+               <pb n="4" facs="tcp:56890:3"/>the <hi>Statutes</hi> of 25 <hi>E.</hi> 3.
+<hi>c.</hi> 2. 26 H. 8. c. 13. 1 <hi>Ed</hi> 6. <hi>c.</hi> 12. 1 <hi>El. c.</hi> 6. 13. <hi>El. c.</hi> 2. and all other Acts concerning
+<hi>Treaſon,</hi>
+               <note n="*" place="margin">See Raſtal Tit, Treaſon.</note> it is no leſſe than <hi rend="blackletterType">High Treaſon,</hi> for <hi>any man by overs act, to compaſs or imagine the death of the King, or of his eldeſt Son and heir,</hi> though it be never executed: much more if actually accompliſhed. That many have been ar<g ref="char:EOLhyphen"/>raigned, condemned, executed for ſuch
+<hi>intended Treaſons</hi> in for<g ref="char:EOLhyphen"/>mer ages, as the Earl of <hi>Arundel</hi> and others, by <hi>Judgement in Par<g ref="char:EOLhyphen"/>liament,</hi> 21 <hi>R.</hi> 2. <hi>Plac. Coronae. Nu</hi> 4.6,7. and the <hi>Gunpowder Traytors,</hi> 3 Jacobi. c. 1, 2,
+4. to omit others, whoſe <hi>Examples</hi> ſhould be your
+<hi>Admonitions,</hi> the <hi>heads and Quarters of ſome</hi> of them yet hang<g ref="char:EOLhyphen"/>ing on the <hi>Houſe</hi> where now you meet and ſit.</p>
+            <p>2ly, That in the
+<note n="*" place="margin">3 Iac. c 4. 7 Iac. c. 6.</note> 
+               <hi>Oath of Allegiance</hi> which you have all taken, &amp; <hi>ought to take</hi> Immediately before your admiſſion into the <hi>Commons</hi> Houſe as Members; <hi>You do truly, and ſincerely profeſſe, teſtifie and de<g ref="char:EOLhyphen"/>clare in your Conſciences before God and the World, That our Soveraign Lord King</hi> Charls, <hi rend="blackletterType">Is lawfull and rightful King of this Realm, and of all other his Majeſties Domin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ons and Countries:</hi> And <hi>that the</hi> Pope <hi>neither of himſelf, nor by any authority of the Church or See of</hi> 
+               <hi rend="blackletterType">Rome, or by any other means,</hi>
+               <note n="*" place="margin">See <hi>Prynne</hi> the Member reconciled to <hi>Prynne</hi> the Barreſter, p. 18 19.</note> 
+               <hi rend="blackletterType">Nor with any other, hath any power or authority to depoſe the King, or to diſpoſe of any of his Majesties Kingdoms or Dominions,</hi> or
+<hi rend="blackletterType">to diſcharge any of his Sub<g ref="char:EOLhyphen"/>jects of his Allegiance and Obedience to his Majeſties Perſon, State or Government. And that notwithstanding any ſentence or Declaration of</hi>
+               <hi rend="blackletterType">Deprivation made by the Pope, &amp;c. or any abſolution of the ſaid Subjects, from their obedience,</hi> you will
+<hi>bear true Allegi<g ref="char:EOLhyphen"/>ance to</hi> 
+               <hi rend="blackletterType">His Majeſty, His heirs &amp; Succeſſors, and him and them will defend to the uttermoſt of your power, againſt all at<g ref="char:EOLhyphen"/>tempts and conſpiracies whatſoever, which ſhall be made a<g ref="char:EOLhyphen"/>gainſt his or their Crown and Dignity, by reaſon or colour of any ſuch ſentence or Declaration,</hi>
+               <note n="*" place="margin">That is by the Pope or a<g ref="char:EOLhyphen"/>ny other Per<g ref="char:EOLhyphen"/>ſon or perſons whatſoever.</note> 
+               <hi rend="blackletterType">or otherwiſe: And you therein further ſwear, that you do from your</hi> 
+               <hi rend="blackletterType">hearts abhor, deteſt and abjure, as im<g ref="char:EOLhyphen"/>pious and Heretical, that</hi> 
+               <hi rend="blackletterType">damnable doctrine and poſition, that Princes which be excommunicated or deprived by the Pope,</hi> 
+               <hi rend="blackletterType">may be de<g ref="char:EOLhyphen"/>poſed or murthered by their Subjects, or any other whatſoev<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. And that you do believe, and in conſcience are reſolved, that neither the Pope</hi>
+               <note n="*" place="margin">Therefore not the Weſt<g ref="char:EOLhyphen"/>minſter Jun<g ref="char:EOLhyphen"/>cto.</note> 
+               <hi>nor any perſon whatſoever, hath power</hi>
+               <hi rend="blackletterType">to abſolve you of this Oath, or any part thereof;</hi>
+               <hi>and that all theſe things you did plainly and ſincerely acknowledge and ſwear, according to theſe expreſſe words, and their plain</hi>
+               <pb n="5" facs="tcp:56890:3"/>
+               <hi>and common ſence, without any equivocation, or mental evaſion or ſecret reſervation whatſoever;</hi> And that you did make
+<hi>this Recognition and acknowledgement,</hi> 
+               <hi rend="blackletterType">heartily, willingly and truly, upon the true faith of a Chriſtian.</hi> Now whether your preſent intentions and proceedings againſt the King, be not diametrically repugnant to this ſolemn <hi>Oath</hi> (which moſt of you have taken ſithence theſe wars, and ſome of you ſince the Treaty, when ſworn <hi>Serjeants of Law, &amp;c.</hi>) let God and the world before whom you ſwore, and your own Conſciences, in which you then ſwore, determine; you acting herein the
+<note n="d" place="margin">See Wat<g ref="char:EOLhyphen"/>ſons Quodli<g ref="char:EOLhyphen"/>bets. Th. Cam<g ref="char:EOLhyphen"/>panela de Mo<g ref="char:EOLhyphen"/>narchia Hiſp. c. 25.</note> Popes and Jeſuits deſigns.</p>
+            <p>3ly. That your ſelves among other Members, have in above one hundred
+<note n="e" place="margin">Exact Collections. p. 6. 19. 59. 66. 67.
+83. 102. 103. 118. 123. 125. 141, 142, 143. 173. 180. 195. 219. 259. 281. 307.
+380. 312. 360 376. 457. &amp;c.</note> 
+               <hi>Remonſtrances, Declarations, Petitions, Ordinances</hi> and printed papers, publiſhed in the name, and by the authority of one or both Houſes of Parliament, profeſſed both to the
+<hi>King himſelf, Kingdome, world, and forein States,</hi> that <hi>you never intended the</hi> leaſt injury, hurt or violence to the <hi>Kings Perſon, Crown, Dignity or Po<g ref="char:EOLhyphen"/>ſterity;</hi> but intended to him and his Royal Poſterity more <hi>honour, happineſſe, Glory, and greatneſſe,</hi> than ever was yet enjoyed by any of <hi>his Royal Predeceſſors: that you will ever make good to the uttermost with your lives and fortunes, the faith and allegiance, which in truth and ſincerity you have alwayes born to his Majeſty: that you have pro<g ref="char:EOLhyphen"/>poſed to no other ends to your ſelves, but the performance of all duty and loyalty to his Majeſties Perſon: That all Contributions and loans upon the publick faith ſhould be imployed onely to mantain</hi> the Proteſtant Religion, the Kings authority, his Perſon, his Royal dignity, the Laws of the Land, Peace of the Kingdome, and Priviledges of Parliament, and not to be imployed againſt his Majeſties perſon or authority. <hi>That the</hi>
+               <note n="f" place="margin">A Colle<g ref="char:EOLhyphen"/>ction, &amp;c p. 18 13. 41, 43,
+44. 49. 51. 51, 61. 64. 96. 181, 182. 310. 321. 324, 325. 496 599. 623. 696.
+806, 807, 879. Appendix, p. 15.</note> 
+               <hi>Armies and forces raiſed by the Houſes, were raiſed for</hi> 
+               <hi rend="blackletterType">the ſafety and defence of the Kings Perſon, and of both Houſes of Parliament, &amp;c.</hi> 
+               <hi rend="blackletterType">That his Majeſties Perſonal ſafety, ho<g ref="char:EOLhyphen"/>nour and greatneſſe, are much dearer to you than your own lives and fortunes, which you do moſt heartily dedicate to, and most willingly imploy for the maintenance and ſupport thereof.</hi> 
+               <hi rend="blackletterType">That the Parliament will ever have a care to prevent any danger which his Majeſty may juſtly apprehend to his perſon.</hi>
+               <hi>That both Houſes are reſolved to expoſe their lives and fortunes, for the defence and maintenance of the true Religion,</hi> 
+               <hi rend="blackletterType">The Kings perſon, honour and State, the power and priviledges of Parliament. That notwithſtanding his Majesties Proclamations against the General and Army as</hi> 
+               <hi rend="blackletterType">Tray<g ref="char:EOLhyphen"/>tors, yet to witneſſe their conſtant and unſhaken Loyalty to his</hi>
+               <pb n="6" facs="tcp:56890:4"/>
+               <hi rend="blackletterType">Majeſty,</hi> both Houſes do ſolemnly declare; That <hi>upon his disband<g ref="char:EOLhyphen"/>ing his forces,</hi> &amp; return, and hearkning to the advice of his Great Council, They will really endeavor to make both <hi rend="blackletterType">him</hi> and
+<hi rend="blackletterType">his</hi> as much beloved at home, <hi>and feared abroad, as any Prince that ſwayed the Scepter:</hi> which is <hi rend="blackletterType">their firm and conſtant reſolution, from which they will not be diverted for any private or ſelf-reſpects whatſoever:</hi> That they will faithfully <hi>endeavour</hi> to <hi rend="blackletterType">ſecure his Majeſties perſon and Crown from all dangers, inculcating</hi>
+               <hi rend="blackletterType">the apparent danger to his Royal Perſon among his Popiſh and Ma<g ref="char:EOLhyphen"/>lignant Armies and ill Counſellours; and upon that reaſon, perſwading and inviting him to deſert them, and cloſe with his Parliament: proteſt<g ref="char:EOLhyphen"/>ing, that</hi> 
+               <hi rend="blackletterType">the Parliament hath been, and ever will be more ready than they,</hi>
+               <hi rend="blackletterType">to ſecure and uphold the Prerogative and Honour of the</hi> 
+               <hi rend="blackletterType">King, and preſerve the ſafety of his Royal perſon; which they</hi> 
+               <hi rend="blackletterType">have oft-times teſtified by many humble Petitions and Decla<g ref="char:EOLhyphen"/>rations to him, the world and Kingdoms;</hi> with many other ſuch like expreſſions. Which whether your preſent Actings &amp; Counſels do not directly oppoſe, contradict, falſifie and give the lie unto, to your eternal infamy and breach of publick Parliamentary faith, as much as in you lies, let both Houſes, the world, and all <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>en judge; as they will do in due ſeaſon, &amp; your own conſciences too.</p>
+            <p>4ly. Conſider, That when the
+<note n="g" place="margin">Exact Col<g ref="char:EOLhyphen"/>lection. p.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>98. 695, 696. 657, 658. 991.</note>
+               <hi>King</hi> and his <hi>party</hi> did tax the <hi>Houſes, for inſinuating, That if they ſhould make the highest Preſidents of other Parliaments their pattern, there would be no cauſe to com<g ref="char:EOLhyphen"/>plain of want of modeſty or duty in them:</hi> That is, <hi rend="blackletterType">they may de<g ref="char:EOLhyphen"/>poſe the King when they will,</hi>
+               <hi> &amp; are not to be blamed for ſo doing<g ref="char:punc">▪</g> and that the Army raiſed by the Parliament</hi>
+               <hi rend="blackletterType">was to murther and depoſe the King.</hi> Both Houſes by two ſolemn <hi>Declarations,</hi> did moſt profeſſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dly declare and proteſt againſt it,
+<hi rend="blackletterType">as the falſeſt and moſt malicious accuſation that could be imagined: that the thoughts of it never entred nor ſhould enter into their Loyal hearts.</hi>
+               <note place="margin">Nota.</note>
+               <q rend="inline margQuotes">"That as God is witneſs of their thoughts, ſo ſhall their actions witneſs to all the world, that to the honour of our Re<g ref="char:EOLhyphen"/>ligion, and of thoſe who are moſt zealous in it, they ſhall ſuffer far more for and from their Soveraign, than they hoped God would ever permit the malice of his wicked Counſellors to put them to;</q>
+               <hi>ſince the happineſs of the Kingdome doth ſo mainly depend upon his Majeſty and the Royal Authority of that root<g ref="char:punc">▪</g> That they hoped the contrivers of theſe falſe and ſcandalous reports, or any that profeſſed, the name of a Chriſtian, could not have ſo little</hi>
+               <pb n="7" facs="tcp:56890:4"/>
+               <hi>Charity, us to raiſe ſuch a Scandal, eſpecially when they muſt needs know, the</hi> Proteſtation <hi>made by the Members of both Houſes, whereby they promiſe in the preſence of Almighty God,</hi>
+               <hi rend="blackletterType">to de<g ref="char:EOLhyphen"/>fend and preſerve his Majeſties Perſon.</hi>
+               <hi>The promiſe and Prote<g ref="char:EOLhyphen"/>ſtation made by the Members of both Houſes upon the Nomination of the Lord of</hi> Eſſex <hi>to be General, to live and die with him;</hi> wherein is expreſſed. That
+<note n="*" place="margin">Which they oft profeſſed both of the Army under the Earl of Eſſex, and Sir. Thomas Fair<g ref="char:EOLhyphen"/>fax too. Col<g ref="char:EOLhyphen"/>lection of all Orders, &amp;c. 8. 13, 41, 43, 44, 49, 51, 61, 64, 96, 99, 623, 696, 879. Apendix. p. 15.</note> 
+               <hi rend="blackletterType">this Army was raiſed for the defence of the Kings Perſon. Their often earneſt and moſt humble Adreſſes to His Majesty, to leave that</hi> deſperate and dangerous Army wherewith he is now incompaſſed, <hi>raiſed</hi> and upheld
+<hi rend="blackletterType">to the hazard of his Own,</hi> and the Kingdom<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi rend="blackletterType">Ruin</hi> and to come in Perſon to his Parliament, where he ſhould <hi rend="blackletterType">be ſure to remain in</hi> 
+               <hi rend="blackletterType">Honor and Safe<g ref="char:EOLhyphen"/>ty: and their humble Petition directed to be preſented to him by the hands of the Earl of</hi> Eſſex, <hi>before any blow given, to remove his</hi> 
+               <hi rend="blackletterType">Royal Per<g ref="char:EOLhyphen"/>ſon from the Army: a requeſt inconſistent with</hi> 
+               <hi rend="blackletterType">any purpoſe to offer the leaſt violence to his Perſon,</hi> which hath been &amp;
+<hi rend="blackletterType">ever ſhall be dear unto them.</hi> Now put it to your ſouls and conſciences, whe<g ref="char:EOLhyphen"/>ther yours and the Armies preſent Councels and actions, do not really juſtifie the Kings and his parties former ſuggeſtions, and give the ly to all theſe <hi>Declarations of both Houſes?</hi> who certainly (when ever reſtored to a condition of
+<hi>freedom</hi> and liberty of meet<g ref="char:EOLhyphen"/>ing together again,) will crave publick reparations and juſtice againſt you, if you violate both their Honor, Faith, and engage<g ref="char:EOLhyphen"/>ments to the King, Kingdom and forre a States, againſt all theſe their <hi>Declarations</hi> and <hi>Proteſtations</hi> too. 5ly. Remember, that the <hi>Lords and Commons aſſembled in Parliament,</hi>
+               <note n="*" place="margin">Exact Colle<g ref="char:EOLhyphen"/>ction p. 663. 664, 666, 687.
+686, 907, 911.</note> Octob. 22. 1642. in the <hi>preſence of Almighty God (which is the ſtrongeſt obligation that any Chriſtian, and the moſt ſolemn publick faith that any State or a Par<g ref="char:EOLhyphen"/>liament can give) for the ſatisfaction of their own conſciences, and diſ<g ref="char:EOLhyphen"/>charge of that great trust that lyes upon them, did make this Proteſtation and Declaration to all this Kingdom and Nation, and to the whole world; That no private paſſion or reſpect,</hi> 
+               <hi rend="blackletterType">No evil intention to his Ma<g ref="char:EOLhyphen"/>jeſties Perſon,</hi> no deſigne <hi rend="blackletterType">to prejudice his juſt Honor and Authority,</hi> engaged them to raiſe forces or take up Armes.
+<q rend="inline margQuotes">"That if he would return to his Parliament in peace, and by their counſel and advice compoſe the diſtempers and confuſi<g ref="char:EOLhyphen"/>ons abounding in his Kingdoms; They would receive him with all Honor, yeild him all true obedience, ſubjection,</q> and
+<hi rend="blackletterType">faithfully endeavour to defend his Perſon and Eſtate from all</hi> 
+               <pb n="8" facs="tcp:56890:5"/>
+               <hi rend="blackletterType">danger, and to the uttermoſt of their power,</hi> 
+               <hi rend="blackletterType">eſtabliſh him</hi> in all the bleſſings of a glorious and <hi rend="blackletterType">happy Reign.</hi> And that <hi rend="blackletterType">they had no intentions or deſire to hurt or injure his Majeſty, either in his Perſon or juſt power.</hi> Which they ſeconded by many ſubſequent
+<hi>Declarations.</hi> Since which, both Houſes and the three Kingdoms of
+<hi>England, Scotland</hi> and <hi>Ireland,</hi> have entred into
+<note n="*" place="margin">A Collecti<g ref="char:EOLhyphen"/>on, &amp;c. p. 327. 359. 399.
+404. 416. 410 to 418 806. 887. 898. 878, 888. 889.</note> 
+               <hi>Aſolemn League</hi> and <hi>Covenant, for the honour and happineſſe of the Kings Maje<g ref="char:EOLhyphen"/>ſty,</hi> and his <hi>Poſterity</hi> [among other ends therein ſpecified:] That they ſhall <hi>ſincerely, really and conſtantly endeavour with their eſtates and lives,</hi> 
+               <hi rend="blackletterType">to preſerve and defend the Kings Majeſties perſon and authority,</hi> in the preſervation and defence of the true Religion &amp; Liberties of the Kingdome; that the world may bear witneſs with their conſciences
+<hi rend="blackletterType">of their Loyalty,</hi> &amp; that <hi rend="blackletterType">they have no thoughts nor intentions to diminiſh his Majeſties juſt power and great<g ref="char:EOLhyphen"/>neſſe. That they will with all faithfulneſs endeavour to diſcover all e<g ref="char:EOLhyphen"/>vil instruments and incendiaries</hi>
+               <note n="*" place="margin">Thoſe who depoſe or di<g ref="char:EOLhyphen"/>vide his Head from his ſhoulders muſt be moſt guilty of this dividing.</note>
+               <hi>dividing the King from his people, that they may be brought to publick trial, and receive condign puniſh<g ref="char:EOLhyphen"/>ment: And ſhall never ſuffer themſelves directly, or indirectly, by what<g ref="char:EOLhyphen"/>ſoever combination, perſwaſion or terrour,</hi> to be withdrawn from this bleſſed union,
+<hi>&amp;c. which ſo much concerneth the glory of God, the good of the Kingdoms,</hi> 
+               <hi rend="blackletterType">and the honour of the King; but ſhall all the days of their lives zealouſly and canſtantly continue therein againſt all oppoſition.</hi> And conclude. <hi>This Covenant we make in the preſence of Almighty God the ſearcher of all hearts, with a true intention to ob<g ref="char:EOLhyphen"/>ſerve the ſame, as we ſhall anſwer at the great day, when the ſecrets of all hearts ſhall be diſcloſed.</hi> This Covenant you have all taken your ſelves (ſome of you often) &amp;
+<note n="*" place="margin">A Collection &amp;c. p. 420. &amp;c.</note> 
+               <hi>Impoſed it on all our three Kingdoms:</hi> And will it not ſtare in your faces, your conſciences, and engage God himſelf, and all three Kingdomes, as one man againſt you, if you ſhould proceed to depoſe the King, deſtroy his perſon, or diſinherit his poſterity? yea, bring certain ruine upon you and yours, as the greateſt
+<note n="*" place="margin">1 Tim. 3.3.4.</note> 
+               <hi>Covenant breakers,</hi> and moſt perjured crea<g ref="char:EOLhyphen"/>tures under heaven? O think, and think moſt ſeriouſly upon it be<g ref="char:EOLhyphen"/>fore you proceed to further perjuries.
+<note n="*" place="margin">Rot. Par. An. 24 F. 3. part 3. m. 2. in dor. Rot Par. n. 25 E. 3. par. 1. m. 17. Rot. Par. 25 E. 3. n. 30. Cooks 3 Inſtit. p. 145. 146.</note> In 24 E 3 <hi>William Thorpe,</hi> chief Juſtice of the <hi>Kings Bench,</hi> for taking 80 <abbr>l.</abbr> bribes of ſeveral perſons, was by <hi>ſpecial Commiſsion, indicted, convicted and condemned</hi> 
+               <hi rend="blackletterType">to be hanged,</hi> and to forfeit all his
+<hi>lands, Tenements, Goods and chattels to the King:</hi> becauſe thereby
+<hi>Sacramentum Domini Regis quod erga populum habuit cuſtodiendum, fregit, malicose, false &amp; rebelliter,</hi> 
+               <pb n="9" facs="tcp:56890:5"/>
+               <hi>quantum in ipſo fuit:</hi> which Judgement was affirmed <hi>to be just and reaſonable in full Parliament, where it was openly read by the Kings command,</hi> as is evident by 25 E. 3. <hi>Rot. Parl. nu.</hi> 10. If then this chief Juſtice for breaking his Oath to the King and his people, as a Judge, onely in taking two or three ſmall bribes, <hi>deſerved to be hanged, &amp; to forfeit all his Lands, goods and life,</hi> by the judgement of a full Parliament, then what will ſuch Members deſerve to ſuffer, who ſhall not onlie violate their Oaths of <hi>Allegiance and Supremacy to the King &amp; his heirs, but likewiſe the ſeveral Protestations ſolemn League &amp; Covenant, and the multiplied publick Faiths, engagements, Declarations, Remonſtrances, and promiſes of both Houſes of Parliament, made to God, the King, the whole Kingdoms and people of</hi> England, Scotland and Ireland, <hi>the States of the united Provinces, and all the world, and that maliciouſly, falſely, and rebelliouſly, as much as in them lies,</hi> and their own private Faith, Oaths, Vows and Covenants involved in them, <hi>by depoſing and executing the King, diſinheriting the Prince, violating the privileges,</hi> uſurping the power of the Parliament to themſelves, when moſt of the other Members are
+<hi>violently</hi> ſecluded by the ar<g ref="char:EOLhyphen"/>my, to the ſubverſion of the Privileges and freedome of all Parlia<g ref="char:EOLhyphen"/>ments? this being one article againſt King R. the 2d. in 1 H. 4. <hi>Rot. Par.</hi> n. 25. 66. 70. when he was depoſed; That in the Parliament held at <hi>Salop,</hi>
+               <q rend="inline margQuotes">"intending to oppreſſe his people, he did ſubtilly procure and cauſe to be granted by conſent of all the States in the King<g ref="char:EOLhyphen"/>dom (which you have not) that the power of the Parliament ſhould remain with certain perſons
+<note n="h" place="margin">21 R. 2. c. 16.</note> 
+                  <hi>(Lords and Commons)</hi> to determine certain Petitions then delivered, but not diſpatched, after the Parliament ended; by colour whereof, the ſaid deputed perſons proceeded by the Kings pleaſure and will to other things generally concerning the ſaid Parliament,</q> 
+               <hi rend="blackletterType">to the great derogation of the State, and Privileges of the Parliament, and the great detriment and pernicious example of the whole Realm:</hi>
+               <q rend="inline margQuotes">"and to gain ſome colour and authority to their doings, the King cauſed the Parliament Rolls to be altered and deleted according to his Vote, contrary to the effect of the foreſaid con<g ref="char:EOLhyphen"/>ceſſion,</q>as you have preſumed to null, repeal, and
+<note n="*" place="margin">Dec. 12, and 13. 1648.</note> unvote divers Votes, Orders and Ordinances of both Houſes made in purſuance <hi>of the foreſaid Oaths, Proteſtations, the ſolemn League and Covenant, Re<g ref="char:EOLhyphen"/>monſtrances, Declarations of both Houſes, and the Treaty,</hi> when the hou<g ref="char:EOLhyphen"/>ſes were full, and not under the Armies force or violence; And if their proceedings, &amp; the whole Parliament of 21 R. 2, were <hi>declared</hi>
+               <pb n="10" facs="tcp:56890:6"/>
+               <note n="i" place="margin">1. H. 4. c. 3.</note> null <hi>and void,</hi> and the King worthy to be depoſed for ſuch pro<g ref="char:EOLhyphen"/>ceedings then; let <hi>Serjeant Thorp,</hi> and other Lawyers now acting with you, conſider and inform you what puniſhment you deſerve for ſuch breach of faith, privilege of Parliament, and uſurpation of a monopoly of Parliamentary power to your ſelves whiles ſitting, under the <hi>Armies force,</hi> and moſt Members forced thence: in which caſe you ought not to <hi>ſit, vote, or, conclude any thing,</hi> but onely to
+<note n="k" place="margin">As the Houſe did in the caſe of the five Members, Exact Colle<g ref="char:EOLhyphen"/>ction, p. 35 to 56.</note> 
+               <hi>adjourn</hi> till the force removed and all the Members may freely meet in full Parliament, as is clear by that memorable Record of 6 E. 3 <hi>Par apud Ebor. n.</hi> 1. 2.
+<hi>Dor. clauſ</hi> 6. E. 3. <hi>m</hi> 4. 6 E. 3. <hi>apud Weſt Parl.</hi>
+2. <hi>n</hi> 1. 13 3 <hi>Parl.</hi> 2. <hi>n.</hi> 4. 15 <hi>E.</hi> 3.
+<hi>n.</hi> 5. 17 <hi>E.</hi> 3. <hi>n.</hi> 26. 18. <hi>E.</hi> 3. <hi>n.</hi>
+1. 25. 20 <hi>E.</hi> 3. <hi>n.</hi> 5. 21 <hi>E.</hi> 3. <hi>n.</hi> 4. 22.
+<hi>E.</hi> 3. <hi>n.</hi> 1. 25 <hi>E.</hi> 3. <hi>n.</hi> 1. 29 <hi>E</hi> 3.
+<hi>n</hi> 4. 36 <hi>E.</hi> 3. <hi>n.</hi> 1. 37 <hi>E.</hi> 3. <hi>n.</hi> 1.
+42 <hi>E.</hi> 3. <hi>n.</hi> 1. 50 <hi>E.</hi> 3. <hi>n.</hi> 1. 51
+<hi>E.</hi> 3. <hi>n.</hi> 3. 1 <hi>R.</hi> 2 <hi>n.</hi> 1. 3 <hi>R.</hi> 2.
+<hi>n.</hi> 1. 4 <hi>R.</hi> 20 <hi>n.</hi> 1 5 <hi>R.</hi> 2 <hi>parl.</hi> 1.
+<hi>n.</hi> 1. <hi>parl</hi> 2 <hi>n,</hi> 1. 6 <hi>R.</hi> 2. <hi>parl.</hi>
+1. <hi>n.</hi> 1 <hi>Parl.</hi> 2. <hi>n.</hi> 1. 8 <hi>H.</hi> 4. <hi>n.</hi>
+28. 30. 54. 9 <hi>H.</hi> 4. <hi>n.</hi> 1. 13 <hi>H.</hi> 4. <hi>n.</hi> 1. and many more rolls: where the Parlia<g ref="char:EOLhyphen"/>ment when any <hi>conſiderable number of the Members of either Houſe were abſent, was constantly adjourned, and refuſed to ſit or-do any thing</hi> [though not under any force] <hi>till the houſes were full, much more then, when under the Armies ſword:</hi> it being againſt <hi>Magna Charta,</hi> as the
+<note n="l" place="margin">Matthew Parts, p. 882, 885, 888. Dan. P.
+172.</note> 
+               <hi>Barons declared in Parl.</hi> Anno Dom. 1257. in the reign of
+<hi>K. H.</hi> the third, for a few Members to ſit when the reſt are abſent.</p>
+            <p>6ly, Conſider, that though many of the Kings of <hi>Judab</hi> and <hi>Iſrael</hi> were extraordinary <hi>ſinfull, Idolatrous, bloody, tyrannicall</hi> and great <hi>oppreſſours</hi> of their people, yea
+<hi>ſhedders of Priests,</hi> of <hi>Prophets,</hi> and other <hi>good mens innocent blood,</hi> not onely in the wars, but <hi>in peace:</hi> yet there is not one Preſident in the <hi>old Teſtament</hi> of one <hi>King</hi> ever judicially impeached, arraigned, depoſed, or put to death by the
+<hi>Congregation, Sanhedrim,</hi> or Parliament of <hi>Judah</hi> or
+<hi>Iſrael.</hi> That thoſe who <hi>ſlew</hi> any of them in a
+<hi>tumultuous</hi> or <hi>treache<g ref="char:EOLhyphen"/>rous manner,</hi> were for the moſt part
+<hi>slain</hi> themſelves, either in a tumult, or <hi>elſe put to death by their children who ſucceeded to the Crown, or by the people of the Land:</hi>
+               <note place="margin">2 Chron. 23.14,15,21. c. 24.25,26. c. 25.3,4. c.
+33.24,25.</note> &amp; that the Iſraelites after their revolt from <hi>Reho boam</hi> had never any one <hi>good King,</hi> or good day almoſt among then: but were <hi>over run with idolatry, prophaneſſe, tyranny:</hi> invaded <hi>by enemies, involved in perpetual Wars,</hi> Civil or
+<hi>Forein;</hi> and at laſt all <hi>deſtroyed, and carried away Captives into Babylon:</hi> as the Books of <hi>Kings</hi> and <hi>Chronicles</hi> will inform you: That the rule in the Old Teſtament is, not to take any wicked Kings from their Thrones and behead them: but
+<note n="n" place="margin">Prov. 25.5.</note> 
+               <hi>Take away the wicked from before the King, and his Throne ſhall be eſtabliſhed in righte<g ref="char:EOLhyphen"/>ouſneſs.</hi> 
+               <pb n="11" facs="tcp:56890:6"/>And the rule in the New Teſtament,
+<note n="o" place="margin">Rom. 13.1,2. &amp;c. Tit. 3.1,2. 1 Pet.
+3.13,14,17, 1 Tim. 2.1,2,3</note> 
+               <hi>To be ſubject to Kings and the Higher Powers, and to ſubmit unto them even for Conſcience and the Lords ſake: and to make Prayers, Supplications, and Interceſſions for them, that under them we may lead a peacable and quiet life, in all Godlineſs and honeſty, for this is good and acceptable in the ſight of God our Saviour;</hi> not to depoſe or ſhed their blood, for which there is no precept, nor preſident in the <hi>Goſpel, but</hi> only of the <hi>bloody Jewes who with p wicked hands crucified</hi> Jeſus Chriſt, THE KING OF THE JEWES by <hi>birth right,</hi> and <hi>Lord of Glory,</hi> whom they re<g ref="char:EOLhyphen"/>jected and
+<hi>diſclaimed for their King,</hi> before they crucifyed him;
+<note place="margin">Acts 2.23. c. 13,14,15. John 19.12. to 23. Mat.
+27.27. Luk. 23.38.</note> which brought ſpeedy and exemplary deſolation upon their whole Nation ever ſince till now. And is not this plain way of God the ſafeſt for you and the Army Saints to follow, yea, the ſhort cut to Peace and ſettlement? Ruminate upon it, and then be wiſe, both for your ſouls good, and the Kingdomes too.</p>
+            <p>7thly. Conſider, that you now meet, and ſit under the armed force and violence of a <hi>mutinous Army,</hi> who have leavyed Warre againſt the Houſes to diſſolve them, impriſon'd many of your Members, forcibly ſecluded more, and driven away almoſt all from the Houſes; That till the removal of this horrid force, and re-aſſembling <hi>of all</hi> your ſcattered <hi>Members</hi> with <hi>freedom</hi> and <hi>ſafety</hi> in the Houſes, all you Vote, <hi>Act, Order, or Ordain,</hi> by the
+<hi>Armies</hi> own Doctrine, in their <hi>Remonſtrance</hi> of
+<hi>Auguſt</hi> 18. and the <hi>Decla<g ref="char:EOLhyphen"/>ration</hi> and <hi>Ordinance</hi> of
+<hi>both Houſes</hi> (made at the Armies inſtance <hi>Auguſt</hi> 20.
+1647.) <hi>is null and void,</hi> even <hi>at and from the time it was voted, acted, ordered, ordained,</hi> and ſo declared by your ſelves even by this unrepealed <hi>Ordinance,</hi> and by former Parliaments too, as 21 <hi>R.</hi>
+2. <hi>c.</hi> 12. 1 <hi>H.</hi> 4. <hi>c.</hi> 3. 31 <hi>H.</hi> 6.
+<hi>c.</hi> 1. 39 <hi>H.</hi> 6. <hi>c.</hi> 1. And how<g ref="char:EOLhyphen"/>ever you may take upon you the name and power of the <hi>Houſes of Parliament,</hi> and unvote, vote, order, and ordain what you pleaſe: yet take it for an infallible Truth, that none of the <hi>ſecluded</hi> and abſent <hi>Members,</hi> none of the
+<hi>Counties, Cities and Boroughs,</hi> for which they ſerve;
+<note place="margin">See the Pro<g ref="char:EOLhyphen"/>teſtation Dec. 11. 1648.</note> not thoſe for whom you ſerve and repreſent; nor yet the Kingdoms of
+<hi>England, Scotland</hi> and <hi>Ireland,</hi> (who have as great, yea greater ſhares and intereſts by far than your ſelves, in the Perſon of the King, as their <hi>lawful Soveraign,</hi> and are en<g ref="char:EOLhyphen"/>gaged by <hi>Oathes, Proteſtations, Covenants,</hi> and all the premiſes to <hi>protect</hi> his
+<hi>Perſon</hi> and <hi>Crown</hi> with their <hi>lives</hi> and
+<hi>eſtates</hi> againſt all <hi>violence</hi> and <hi>danger</hi>) nor yet his <hi>Queen, Children</hi> and <hi>Allies</hi> in fo<g ref="char:EOLhyphen"/>rein parts of what Religion ſoever, will ever own you (in your <pb n="12" facs="tcp:56890:7"/>preſent condition and conſtitution,) to be a legal <hi>Engliſh Par<g ref="char:EOLhyphen"/>liament,</hi> but rather a <hi>Conventicle or Juncto,</hi> nor any thing you vote, order, or ordain to be
+<note n="r" place="margin">See A Col<g ref="char:EOLhyphen"/>lection, &amp;c. p. 93, 221,
+222, 225, 253.</note> 
+               <hi>valid.</hi> And therefore whatever you vote, Order, or Ordain concerning the <hi>Treaty,</hi> the <hi>depoſing or executing the King, the Diſinheriting or Baniſhing the Prince, diſſolving the pre<g ref="char:EOLhyphen"/>ſent Parliament, ſetting up a new confuſed Repreſentative, or new form of State-Government,</hi> only to pleaſe the <hi>Officers</hi> and
+<hi>Army,</hi> or ra<g ref="char:EOLhyphen"/>ther thoſe <hi>Jeſuits</hi> and <hi>popiſh Priests,</hi> who have over-reached, and inſtigated them forcibly to proſecute theſe their <hi>Treaſonable deſign<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and accompliſh this their long-expected, deſired work; you muſt do only as <hi>private men,</hi> not as a
+<hi>Parliament:</hi> and if ſo, what leſſer offence than <hi>High Treaſon,</hi> againſt the <hi>King, Parl and Kingdom,</hi> your preſent actings and proceedings will amount to in the concluſion, if you perſevere and perſiſt in them, I leave to <hi>a free and full Parlia<g ref="char:EOLhyphen"/>ment,</hi> the learned
+<note n="ſ" place="margin">See Mr. Saint-Johns Argu<g ref="char:EOLhyphen"/>ment at Law, at Straffords attainder, and Cooks 3 Inſtit. c. 1. 3 Jac. c. 1, 2.</note>
+               <hi>Judges,</hi> and all Lawyers now ſitting and voting among you, to conſider and reſolve. Which the Officers and Council of the <hi>Army</hi> conſidering, would caſt the <hi>Odium,</hi> and <hi>dan<g ref="char:EOLhyphen"/>ger</hi> of all upon you, the better to exempt and acquit themſelves if
+<hi>after-reckonings</hi> ſhould come, as probably they <hi>may,</hi> and
+<note n="t" place="margin">1 Kings 2.9,10.28, to 46. 2 Kings 14.6. c.
+15.30. c. 21.23,24.</note> 
+               <hi>certainly will do in Gods due time,</hi> if you and they repent not, give over, and crave pardon ere it be over-late.</p>
+            <p>8ly. Remember, That no <hi>Proteſtant Kingdom or State,</hi> ever yet defiled their hands, or ſtained the purity and honour of their Re<g ref="char:EOLhyphen"/>formed Religion, with the depoſition, or blood of any of their
+<hi>hereditary Kings or Princes,</hi> much leſſe of a <hi>Proteſtant King or Prince,</hi> of a temperate and ſober life, as the King is; who never immediate<g ref="char:EOLhyphen"/>ly <hi>imbrued</hi> his own hands in any <hi>one mans blood,</hi> in any <hi>Tyrannical</hi> or <hi>bloody</hi> way before or ſince the
+<hi>Wars</hi> (for ought I can hear) but only in a <hi>Military,</hi> by his forces in the field. And for a <hi>Reforming Proteſtant Parliament,</hi> pretending the moſt of any to <hi>Piety, Re<g ref="char:EOLhyphen"/>ligion</hi> and <hi>Loyalty,</hi> to ſtain their profeſſion or honour by the <hi>depo<g ref="char:EOLhyphen"/>ſition,</hi> or defile their <hi>hands</hi> with the blood of a <hi>Proteſtant King,</hi> or for an Army of <hi>Saints</hi> to do it, or they to pleaſe a
+<hi>Saint-ſeeming Army,</hi> and that againſt ſo many fore-mentioned
+<hi>Oaths, Proteſtati<g ref="char:EOLhyphen"/>ons, Declarations, Remonſtrances, Solemn Leagues</hi> and <hi>Covenants</hi> one after another obliging them to the contrary, would be ſuch an unparallel'd ſcandal to <hi>the Proteſtant Religion</hi> and all profeſ<g ref="char:EOLhyphen"/>ſors of it (who have upbraided the
+<note n="v" place="margin">3 Jac. c. 4. Dr. John whites Sermon at Pauls Croſſe and defence of the Way, c. 10, 11.</note> 
+               <hi>Jeſuits</hi> and <hi>Papiſts</hi> with this perſidious and <hi>Treaſonable practice,</hi> of which they have been deep<g ref="char:EOLhyphen"/>ly guilty, and themſelves yet innocent) both in our own 3. King<g ref="char:EOLhyphen"/>doms <pb n="13" facs="tcp:56890:7"/>and the whole Chriſtian world, as would give the greateſt occaſion, advantage, and encouragement to the <hi>Jeſuits, Papiſts,</hi> and all licentious perſons to join their hands, heads, purſes to ſuppreſs and extirpate it, and all the
+<note n="*" place="margin">See Ludovicus Lucius Hiſt Ie<g ref="char:EOLhyphen"/>ſuitica.</note> 
+               <hi>Profeſſors</hi> of it, <hi>both at home</hi> and a<g ref="char:EOLhyphen"/>broad, that ever yet they had, and make <hi>Parliaments</hi> for ever here<g ref="char:EOLhyphen"/>after <hi>execrable</hi> and <hi>detestable,</hi> both to <hi>Kings</hi> and people.</p>
+            <p>9ly, Conſider, that <hi>Scotland and Ireland</hi> are jointenants, at leaſt<g ref="char:EOLhyphen"/>wiſe tenants in common with us in the <hi>Kings perſon,</hi> as their lawfull Soveraign and King, as well as ours; and that the <hi>Scots</hi> delivered up and left his perſon to our Commiſſioners at <hi>Newcaſtle</hi> upon this expreſſe condition: <hi>That no violence ſhould be offered to his Perſon, &amp;c,</hi> according to the Covenant. How then you can unking or depoſe him as to them, or take away his life upon pretext of Juſtice, without their concurrent aſſents, is worthy your ſaddeſt thoughts. If you do it without asking or receiving their conſents, you engage both Kingdoms to make a <hi>juſt War</hi> againſt you, to
+<note n="*" place="margin">This fell out accordingly.</note>
+               <hi>Proclaim and</hi> to <hi>Crown</hi> the <hi>Prince</hi> of <hi>Waſes</hi> their <hi>King</hi> (though you ſhould lay him aſide) as being next heir apparent. And no <hi>Ordinance</hi> you can now make will be any <hi>legal</hi> bar againſt him to his
+<note n="*" place="margin">1 Iac. c. 1.</note> heredi<g ref="char:EOLhyphen"/>tarie declared right to the <hi>Crown</hi> of <hi>England,</hi> where he will proba<g ref="char:EOLhyphen"/>bly find a
+1000 perſons for one, who will join with <hi>Scotland</hi> and
+<hi>Ireland</hi> to ſet him upon his <hi>Fathers Throne,</hi> as
+<hi>King</hi> of <hi>England,</hi> and avenge his blood upon all who ſhall be aiding or aſſiſting to its ſpilling, or his dethroning. And what then will become of you and your army, when thus deſerted by moſt, oppoſed by all three kingdoms, and all the Kings, Queens, and Princes Allies, united forces? Where will your new St. <hi>Cromwel,</hi> St. <hi>Ireton,</hi> St.
+<hi>Pride,</hi> St. <hi>Peters</hi> (that faſt and looſe carnal Prophet and
+<hi>Areb-Je<g ref="char:EOLhyphen"/>ſuited incendiary</hi> in theſe preſent tumults) with other Grand Officers of the Army, [who now force you, the General, Armie, and whole kingdome, upon ſuch dangerous Counſels as theſe, by the
+<hi>Jeſu<g ref="char:EOLhyphen"/>ites</hi> principles and practices] then appear, to ſave either themſelves, or you, or their and your poſterities from exemplary juſtice with<g ref="char:EOLhyphen"/>out mercy, or hopes of pardon? Conſider this then ſeriouſly, if not as <hi>Chriſtians,</hi> yet as <hi>Politicians</hi> and ſelf-<hi>ended men,</hi> and then repent and be wiſe in time.</p>
+            <p>10ly, Remember that you have neither Law nor direct preſi<g ref="char:EOLhyphen"/>dent for what you are going about.
+<note n="a" place="margin">Walſing<g ref="char:EOLhyphen"/>ham Hiſt. Ang. 107. 108, 109. Polichron 1 cap. 44. See Speed, Hollin<g ref="char:EOLhyphen"/>ſhed, Grafton in Ed. 2. and Rich. 2. Henry the 4th. 1 H. 4. Rot. Par. n. 1. to 60. My Plea for the Lords, P. 424. to
+429. where the whole procee<g ref="char:EOLhyphen"/>dings are at large related.</note> 
+               <hi>Edward</hi> the 2d. and <hi>Richard</hi> the 2d. were forced by <hi>Mortimer</hi> and
+<hi>Henry</hi> the 4th to reſign their <hi>Crowns</hi> in a formal manner, the one to his <hi>Son,</hi> the other to his <hi>con<g ref="char:EOLhyphen"/>quering ſucceſſors,</hi> neither of them to the <hi>Parliament,</hi> &amp; then depoſed <pb n="14" facs="tcp:56890:8"/>by a ſubſequent ſentence in Parliament, as unfit to <hi>reign,</hi> without any <hi>formal, legal trial,</hi> or
+<hi>anſwer:</hi> and that not in an empty Parlia<g ref="char:EOLhyphen"/>ment, under a force, as now, when moſt Members were forced a<g ref="char:EOLhyphen"/>way, and ſecluded, but in a <hi>full Parliament,</hi> wherein the Articles drawn up againſt them were never
+<hi>ſo much as read before them;</hi> and their depoſitions made [upon their own voluntary confeſſions only] to confirm their precedent Reſignations. Beſides, neither of theſe Kings, though very <hi>bad</hi> and <hi>Papiſts,</hi> were ever condemned to loſe their <hi>heads or lives, but were to be well and honourably treated.</hi> And thoſe proceedings were onely by <hi>Popiſh Parliaments</hi> in times of ignorance, who had no ſuch
+<hi>Oaths</hi> of Supremacy, <hi>Allegiance, Vows, Covenants, Proteſtations</hi> and other forementioned conſiderations to tye their hands as you and we all have now; yea this very Parlia<g ref="char:EOLhyphen"/>ment hath very ſolemnly and particularly proteſted,
+<note n="b" place="margin">Exact Col. P 695. 699.</note> 
+               <hi>That they did never ſuffer theſe Preſidents to enter into their thoughts, and they ſhould never be their practice, whatever they ſuffered from the King or his, and that for the honor</hi> of our Religion, <hi>and the moſt zealous in it.</hi> But that which is very obſervable, <hi>Roger Mortimer,</hi> the principal actor in depoſing King <hi>Edward</hi> the 2. and Crowning his Son
+<hi>Edward</hi> the 3. King in his ſtead, [as you muſt now crown the Prince of <hi>Wales,</hi> in his Fathers ſtead, if you depoſe the King, elſe you purſue not this Preſident, as you ſhould do] in the Parl. of 1
+<hi>E.</hi> 3. [In which I find no record concerning this depoſal] was in a full <hi>Parliament</hi> within four years after, <hi>with ſome other of his Confederates,</hi>
+               <note n="c" place="margin">4 E. 3. Rot Par. n. 1. to. 7. 23 E. 3. Rot. Parl. n. 9. to 14. Plea for the Lords, p. 275. to 283.</note>
+               <hi>impeached, condem<g ref="char:EOLhyphen"/>ned and executed as a Traytor and Enemy to the King and Kingdom, by the Judgement of the Lords, and that by King Edward the third his own aſſent, without any legal hearing or triall,</hi> (juſt as he had there depoſed this King without it) for murthering King <hi>Edward</hi> in
+<hi>Berkley</hi> Caſtle after his depoſall: and
+<note n="d" place="margin">4 E. 3. n. 16<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> Sir <hi>Thomas de Berkley,</hi> in whoſe Caſtle he was ſlain, being indicted of <hi>Treaſon</hi> likewiſe for the ſame murther, before the Lords in Parliament, pleaded not guilty thereunto, <hi>and was tried at the Lords Bar in a legal manner, by a Jury of</hi> 12 <hi>Knights there ſworn and impanelled, and by them acquitted upon full evidence and trial;</hi> when as
+<note n="e" place="margin">4 E 3. n. 35</note> Sir Simon de Bereford
+<hi>was impeached, condemned and executed by a Judgement given againſt him by the Lords alone, with<g ref="char:EOLhyphen"/>out any Trial, for murthering this depoſed King, &amp;</hi> Thomas de Gourney, <hi>&amp;</hi> William Ocle <hi>adjudged Traytors by them for the ſame offence, with<g ref="char:EOLhyphen"/>out any evidence appearing on record.</hi> Theſe Preſidents then will <pb n="15" facs="tcp:56890:8"/>be of very hard digeſtion, and not parallel'd to our times, or the Kings caſe: Who, having upon the late
+<hi>Treaty</hi> granted us, for the ſpeedy ſettlement and ſecurity of our bleeding Kingdoms, Churches and Religion, whatever we could in honour, juſtice, or reaſon deſire, and far greater advantages, and ſecurity than any of our anceſtors, or any Kingdom under Heaven, from the creation to this preſent, demanded or enjoyed from any of their Princes, (as I dare make good to you and all the world) and that which the Commons Houſe, after above two whole daies and one whole nights debate, thought and voted
+<note n="f" place="margin">See My Speech Dec. 4. 1648. and vin<g ref="char:EOLhyphen"/>dication of the ſecured and ſecluded Mem<g ref="char:EOLhyphen"/>bers, Jan. 20. 1648.</note>
+               <hi>a ſufficient ground for them to pro<g ref="char:EOLhyphen"/>ceed with the King to the ſpeedy ſetling of the Kingdoms peace:</hi> how you, or the Army, after ſuch large conceſſions, contrary to the Votes of both <hi>Houſes</hi> of
+<hi>Parliament,</hi> when <hi>full</hi> and <hi>free,</hi> can in <hi>honour, juſtice, reaſon, diſcretion, or conſcience</hi> proceed to
+<hi>depoſe</hi> or <hi>decapitate</hi> the King as a violater of his faith, a
+<hi>Traytor,</hi> &amp;c. without making your ſelves more perjured, treacherous and greater <hi>Traytors</hi> in all kinds than you repute the
+<hi>King,</hi> and without
+<note n="g" place="margin">Rom 2.1,2,3,</note> 
+               <hi>incurring the ſame judge<g ref="char:EOLhyphen"/>ment and execution</hi> as you ſhall paſſe and inflict upon him: I leave to your ſaddeſt conſultations to adv<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e of.</p>
+            <p>I have thus freely, faithfully and plainly diſcharged my mind and conſcience to you, without fear or flattery, for the <hi>Kings,</hi> the
+<hi>Kingdoms, Parliaments,</hi> Proteſtant Religions, I am certain, for
+<hi>Irelands,</hi> (almoſt irrecoverably loſt) <hi>Scotlands,</hi> your own and the Armies weal and ſafety too, if God in mercy pleaſe to give <hi>you heads or hearts</hi> to make timely uſe of this <hi>Memento,</hi> and not ſuffer your ſelves to be <hi>Jeſuit-ridden</hi> any longer. Conſider, you have moſt of you <hi>Estates,</hi> all of you <hi>heads,</hi> or
+<hi>lives,</hi> and <hi>ſouls</hi> to ſave, or loſe both here and hereafter. If this, and all the precedent <hi>conſiderations</hi> will not prevail with you to take you off from your preſent deſpe<g ref="char:EOLhyphen"/>rate
+<hi>Counſels</hi> and proceedings, for your own, the Kingdoms, Chur<g ref="char:EOLhyphen"/>ches, Religions, Irelands, Scotlands, the Parliaments, your own poſterities, and the Armies Honour, Peace, Welfare and ſafety too, Ride on triumphantly ſtill in <hi>Ignatius Loyola</hi> his fiery Chariot, like ſo many young
+<hi>Phaetons,</hi> till you fall and periſh; It is ſufficient for me (however you digeſt this preſent friendly <hi>Memento</hi> to you) that I can truly ſay, <hi>liberavi animam meam,</hi> what ever becom<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of you or me. Who do here ſolemnly
+<hi>proteſt</hi> to all the <hi>World</hi> againſt theſe your
+<hi>proceedings,</hi> as altogether <hi>null, void, unparliamentary, illegal, unchriſtian, antichriſtian,</hi> if not <hi>Perfidious</hi> and
+<hi>Treaſonable</hi> in theſe re<g ref="char:EOLhyphen"/>ſpects.</p>
+            <p>
+               <pb n="16" facs="tcp:56890:9" rendition="simple:additions"/>I ſhall cloſe up all with that Golden ſentence of God himſelf, and the wiſeſt of men, King
+<hi>Solomon,</hi> which is twice repeated, <hi>verbatim,</hi> that it might be the better remembred and conſidered by you, and all others in ſuch Exigences of publick affair<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, as we are now fal<g ref="char:EOLhyphen"/>len into, Prov. 22.3. and 27.12. <hi>A prudent man foreſeeth the evil, and hideth himſelf,</hi> 
+               <hi rend="blackletterType">but the ſimple paſſe on and are puniſhed.</hi> And with that which is parallel to it, Pro. 14.14,15,16. <hi>The ſimple believeth e<g ref="char:EOLhyphen"/>very word, but the prudent m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n looketh well to his goings. A wiſe man fear<g ref="char:EOLhyphen"/>eth and departeth from evil, but the fool rageth and is confident, and ſhall be filled with his own wayes:</hi> which is thus interpreted, Prov.
+1.18,16,32,33. <hi>They lye in wait for their own blood, they lurk privily for their own lives, whoſe feet run to evil, and who make
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſte to ſhed others blood. For the turning away of the ſimple ſhall ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay them,</hi> 
+               <hi rend="blackletterType">and the proſperity of fools ſhall deſtroy them: But who ſo hearkeneth unto me ſhall</hi>
+               <hi rend="blackletterType">dwell ſafely, and ſhall be quiet from fear of evil.</hi>
+            </p>
+            <closer>
+               <dateline>From the <hi>Kings head in the Strand.</hi>
+                  <date>
+                     <hi>Jan.</hi> 1. 1648.</date>
+               </dateline>
+               <signed>Your affectionate friend and <hi>ſervant,</hi> as far as you appear to be <hi>Gods,</hi> your <hi>Soveraigns,</hi> the Kingdoms, the
+<hi>Parliaments, Religions,</hi> theirs who have intruſted you, or your own true Friends. WILLIAM PRYNNE.</signed>
+            </closer>
+            <epigraph>
+               <q>
+                  <bibl>Prov. 28.23.</bibl>
+                  <p>
+                     <hi>He that rebuketh a man, afterward ſhall find more favour, than he that flattereth him with his lips.</hi>
+                  </p>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>A POSTSCRIPT.</head>
+            <p>I Am confident that if the Members now meeting at
+<hi>Weſtminſter,</hi> will but per<g ref="char:EOLhyphen"/>ſwade the <hi>General,</hi> and his
+<hi>Proteſtant Officers</hi> immediately to tender <hi>the Oath</hi> of
+<hi>Supremacy</hi> and <hi>Allegiance, the ſolemn League</hi> and
+<hi>Covenant,</hi> and <hi>the New Oath</hi> of <hi>Abjuration, for the better diſcovery, and ſpeedier conviction of Ieſuits, Popiſh Prieſts and Papiſts</hi> (conſented to by the <hi>King</hi> in the late
+<hi>Treaty</hi>) to all the <hi>Officers, Agitators</hi> and <hi>Souldiers</hi> in the <hi>Army,</hi> they will preſently diſcover an whole
+<hi>Con<g ref="char:EOLhyphen"/>clave</hi> of <hi>Jeſuits, Popiſh Prieſts, and Ieſuited Papiſts</hi> amongſt them, who have inſti<g ref="char:EOLhyphen"/>gated them, to
+<hi>diſobey</hi> and <hi>force</hi> both <hi>Houſes, impriſon their Members, to impeach, try, execute the King, diſſolve the preſent Parliament, ſubvert our Kingly Government,</hi> and conſtitution of
+<hi>Parliaments, betray Ireland to the Rebels,</hi> and involve us in new
+<hi>Wars and confuſion, inſtead of Peace and ſettlement,</hi> the practices, deſigns, and ſtudies, of none but <hi>Ieſuits,</hi> and
+<hi>Papiſts;</hi> which all true <hi>Proteſtants,</hi> cannot but abhor.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
